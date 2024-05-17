@@ -1,4 +1,5 @@
 var name = "Gideon";
+var lastName = "Jones";
 void main() {
-  print(name);
+  print("$name\n$lastName");
 }
